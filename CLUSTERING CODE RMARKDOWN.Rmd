@@ -27,7 +27,7 @@ library(randomForest)
 library(C50)
 library(MASS)
 library(e1071)
-data_ohio = read.csv("Ohio_Data.csv")
+
 
 ```
 
